@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/great-mate/",
+    "build": "vite build --base=/html_css_111_marina-sevostian/",
     "preview": "vite preview"
   },
   "devDependencies": {
